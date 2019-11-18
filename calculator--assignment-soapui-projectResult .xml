@@ -1,0 +1,21 @@
+TestCase [Add and Division TestCase] started at 2019-11-18 14:40:40.089
+Step 1 [Add] OK: took 1602 ms
+Step 2 [Division] OK: took 276 ms
+Step 3 [invalid] OK: took 290 ms
+TestCase [Add and Division TestCase] finished with status [FINISHED], time taken = 2168
+TestCase [Division TestCase] started at 2019-11-18 14:40:42.298
+Step 1 [Divide] OK: took 327 ms
+TestCase [Division TestCase] finished with status [FINISHED], time taken = 602
+Step 2 [Invalid input] OK: took 275 ms
+TestCase [Multiplication TestCase] started at 2019-11-18 14:40:42.907
+Step 1 [Multiply] OK: took 280 ms
+TestCase [Multiplication TestCase] finished with status [FINISHED], time taken = 556
+TestCase [Subtraction TestCase] started at 2019-11-18 14:40:43.469
+Step 1 [Invalid input] OK: took 276 ms
+Step 2 [Subtract] OK: took 276 ms
+TestCase [Subtraction TestCase] finished with status [FINISHED], time taken = 553
+Step 3 [Invalid Input] OK: took 277 ms
+TestCase [Addition] started at 2019-11-18 14:40:44.030
+Step 1 [Add] OK: took 278 ms
+TestCase [Addition] finished with status [FINISHED], time taken = 555
+Step 2 [Invalid input] OK: took 277 ms
