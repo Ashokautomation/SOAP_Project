@@ -1,0 +1,11 @@
+Test started at 2019-11-28 16:27:05.687
+Step 1 [Properties] OK: took 16 ms
+ -> Loaded 0 properties from [C:/Users/AshokBellary/Desktop/TestData.txt]
+Step 2 [Create a new sales order(TC12)] OK: took 1564 ms
+Step 3 [Get list of all sales order(TC_13)] OK: took 5556 ms
+Step 4 [Property Transfer] OK: took 75 ms
+ -> Performed transfer [M_13]
+Step 5 [Get sales order by id(TC_14)] OK: took 1871 ms
+Step 6 [Get status of sales order by Id(TC_15)] OK: took 735 ms
+TestCase finished with status [FINISHED], time taken = 10542
+Step 7 [Allows to cancel sales order by Id(TC_16)] OK: took 725 ms
