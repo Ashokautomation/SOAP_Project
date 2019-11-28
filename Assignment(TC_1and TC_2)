@@ -1,0 +1,6 @@
+Test started at 2019-11-28 16:04:18.869
+Step 1 [customerCustomerRepositoryV1Save] UNKNOWN: took 1338 ms
+Step 2 [Properties] OK: took 0 ms
+Step 3 [Create a new customer (TC_1)] OK: took 1542 ms
+TestCase finished with status [FINISHED], time taken = 5548
+Step 4 [Get list of all customers(TC_2)] OK: took 2668 ms
